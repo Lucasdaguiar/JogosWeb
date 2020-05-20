@@ -6,4 +6,4 @@
 
 [SVG](https://lucasdaguiar.github.io/JogosWeb/SVG/bandeira_japao.html)
 
-[Aula 12](https://lucasdaguiar.github.io/JogosWeb/AULA12/aula12.html)
+[AULA12](https://lucasdaguiar.github.io/JogosWeb/AULA12/aula12.html)
