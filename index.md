@@ -9,3 +9,5 @@
 [AULA12](https://lucasdaguiar.github.io/JogosWeb/AULA12/aula12.html)
 
 [Exercício CSS](https://lucasdaguiar.github.io/jogosweb/CSS/CSS1_1.html)
+
+[Animação SVG](https://lucasdaguiar.github.io/jogosweb/SVG/animacao.html)
